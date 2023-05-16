@@ -3,7 +3,7 @@ h3 {
 }
 
 .btn-success:hover {
-    background-color: lightcoral
+    background-color: crimson
 }
 
 canvas {
@@ -14,10 +14,10 @@ canvas {
 
 @keyframes example {
     from {
-        box-shadow: 5px 5px 100px khaki;
+        box-shadow: 5px 5px 100px pink;
     }
 
     to {
-        box-shadow: 5px 5px 100px palegreen;
+        box-shadow: 5px 5px 100px purple;
     }
 }
